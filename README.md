@@ -37,8 +37,7 @@ provided valuable insights into patterns of employee turnover.
 
 An interactive dashboard was developed, offering users the capability to filter and visualize data seamlessly. Slicers, charts, and graphs were incorporated to empower HR professionals and management with actionable insights for informed decision-making.
 
-[HR Attrition Dashboard 1.pdf](https://github.com/ashishwankhade0011/HR-Attrition-Analysis/files/15420596/HR.Attrition.Dashboard.1.pdf)
-
+![HR dashboard image](https://github.com/ashishwankhade0011/HR-Attrition-Analysis/assets/160989632/cc8434d8-51cb-478c-943d-82d27fdb0c8c)
 
 
 
